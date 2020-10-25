@@ -6,7 +6,7 @@ This repository includes three visualization codes.
 - Confirmed Case visualization
 - Simple Moving Average Visualization
 
-In addition, this repository includes four categories of datasets.
+In addition, this repository includes four categories of datasets related to COVID-19 in South Korea.
 
 1. South Korea Movement Data
 2. South Korea COVID-19 Infection Status
