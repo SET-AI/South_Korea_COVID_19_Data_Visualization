@@ -1,4 +1,4 @@
-province,city,elementary_school_count,kindergarten_count,university_count
+Province Divisions,Cities,Elementary School Counts,Kindergarten Counts,University Counts
 Seoul,Seoul,607,830,48
 Seoul,Gangnam-gu,33,38,0
 Seoul,Gangdong-gu,27,32,0
